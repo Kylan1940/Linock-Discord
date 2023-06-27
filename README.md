@@ -1,0 +1,2 @@
+# LinockBot
+LinockBot for Discord
